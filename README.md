@@ -1,3 +1,3 @@
 # Smart_traffic_management
-Tech Stack:Ultrasonic sensors,Concepts of IOT
-This is an IOT system which controls the traffic lights based on the density of vehicles
+Tech Stack: Inetrnet of Things
+This is an IOT system which dynamically controls the timings of traffic lights based on the density of vehicles
